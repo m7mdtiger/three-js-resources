@@ -114,7 +114,7 @@
 - [photopea.com](https://www.photopea.com) - Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
 - [threejs.org/editor](https://threejs.org/editor) - Create scenes and explore three.js online.
 - [ThreeNodes.js](http://idflood.github.io/ThreeNodes.js) - A dataflow environment for three.js.
-
+- [Panorama to Cubemap](https://jaxry.github.io/panorama-to-cubemap/) - Convert a 360° panorama to six cube faces.
 
 
 ## three.js Plugins
